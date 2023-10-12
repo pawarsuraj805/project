@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'gymprojectkalamboli'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7B3FDA7A9554F029E7E8C708B7DEDEA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_888FADD82FAC497A805797F0994AA387 }}
